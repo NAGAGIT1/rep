@@ -1,12 +1,6 @@
 E
-
-
 D
-
-
 C
-
 AB
-
-
 ABCDE "DONE"
+TEST PASSED
