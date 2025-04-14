@@ -1,2 +1,1 @@
-
-hello B
+hello AB
